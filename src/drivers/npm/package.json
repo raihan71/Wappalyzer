@@ -18,6 +18,6 @@
   ],
   "dependencies": {
     "request": "^2.81.0",
-    "zombie": "^5.0.7"
+    "zombie": "^6.1.0"
   }
 }
